@@ -93,5 +93,13 @@ export default defineConfig({
       message: 'Lançado sob licença MIT',
       copyright: `Direitos reservados © 2019-${new Date().getFullYear()} Lucas Pompeu`
     },
+
+    notFound: {
+      title: 'PÁGINA NÃO ENCONTRADA',
+      quote:
+        'A página que você está procurando não existe ou foi removida.',
+      linkLabel: 'ir para a página inicial',
+      linkText: 'Voltar ao início'
+    }
   }
 })
