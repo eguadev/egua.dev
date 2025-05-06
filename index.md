@@ -13,7 +13,7 @@ hero:
       link: /egua/
   image:
     src: /egua.png
-    alt: VitePress
+    alt: Logo da Linguagem Égua
 
 features:
   - icon: 👨‍💻
