@@ -44,11 +44,11 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/eguatech'},
-      { icon: 'x', link: 'https://x.com/eguatech'},
-      { icon: 'linkedin', link: 'https://www.linkedin.com/company/eguatech/'},
-      { icon: 'instagram', link: 'https://www.instagram.com/eguatech'},
-      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCDgGUdR_6hZ6lfVaQbkQPLw'}
+      { icon: 'github', link: 'https://github.com/eguadev'},
+      { icon: 'x', link: 'https://x.com/eguadev'},
+      { icon: 'linkedin', link: 'https://www.linkedin.com/company/eguadev/'},
+      { icon: 'instagram', link: 'https://www.instagram.com/egua.dev'},
+      { icon: 'youtube', link: 'https://www.youtube.com/@eguadev'}
     ],
 
     nav: [
