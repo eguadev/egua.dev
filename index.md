@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -8,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: Programar
-      link: https://egua.dev/idegua
+      link: https://programar.egua.dev
     - theme: alt
       text: Aprender
       link: /egua/
