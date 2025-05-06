@@ -91,7 +91,7 @@ export default defineConfig({
 
     footer: {
       message: 'Lançado sob licença MIT',
-      copyright: `Direitos reservados © 2019-${new Date().getFullYear()} Lucas Pompeu`
+      copyright: `Direitos reservados © 2020-${new Date().getFullYear()} Lucas Pompeu`
     },
 
     notFound: {
