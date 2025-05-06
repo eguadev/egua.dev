@@ -1,6 +1,14 @@
-.well-known/
-cgi-bin/
+# Node.js
+node_modules/
 
-egua/
-docs/
-idegua/
+# VitePress output (built static site)
+dist/
+
+# Local VitePress cache
+.vitepress/cache/
+.vite/
+
+# Optional: log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
