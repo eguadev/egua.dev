@@ -11,6 +11,7 @@ export default defineConfig({
   appearance: false,
 
   themeConfig: {
+    logo: '/egua.png',
     search: {
       provider: 'local',
       options: {
