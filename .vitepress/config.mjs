@@ -53,7 +53,8 @@ export default defineConfig({
 
     nav: [
       { text: 'Início', link: '/' },
-      { text: 'Aprender', link: '/egua/' }
+      { text: 'Aprender', link: '/egua/' },
+      { text: 'Programar', link: 'https://programar.egua.dev' },
     ],
 
     sidebar: [
