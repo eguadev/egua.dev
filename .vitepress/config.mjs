@@ -5,10 +5,10 @@ export default defineConfig({
   title: 'Linguagem Égua',
   description: 'Programação em Português, Simples e Moderna',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.svg' }],
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap' }]
+    ['link', { rel: 'icon', href: '/favicon.svg' }]
   ],
   appearance: false,
+  cleanUrls: true,
 
   themeConfig: {
     logo: '/egua.png',
@@ -44,11 +44,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/eguadev'},
-      { icon: 'x', link: 'https://x.com/eguadev'},
-      { icon: 'linkedin', link: 'https://www.linkedin.com/company/eguadev/'},
-      { icon: 'instagram', link: 'https://www.instagram.com/egua.dev'},
-      { icon: 'youtube', link: 'https://www.youtube.com/@eguadev'}
+      { icon: 'github', link: 'https://github.com/eguadev'}
     ],
 
     nav: [

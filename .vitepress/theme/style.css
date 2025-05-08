@@ -44,8 +44,6 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-font-family-base: 'Inter';
-
   --sunset-red-1: #FF4B55;
   --sunset-red-2: #D72638;
   --sunset-red-3: #E63946;
@@ -156,11 +154,4 @@
  * -------------------------------------------------------------------------- */
 div[class*="language-"] > span.lang {
   display: none !important;
-}
-
-/**
- * Apply custom font globally
- * -------------------------------------------------------------------------- */
-body {
-  font-family: var(--vp-font-family-base) !important;
 }

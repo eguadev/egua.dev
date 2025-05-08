@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "Linguagem Égua"
-  text: "Programação Simples e Moderna em Português"
+  name: Linguagem Égua
+  text: Programação Simples e Moderna em Português
   actions:
     - theme: brand
       text: Programar
@@ -21,7 +21,7 @@ features:
     details: Linguagem leve para ser executada no navegador.
   - icon: 🗓️
     title: Linguagem Atualizada
-    details: Constantes atualizações e melhorias em seu código aberto.
+    details: Constantes atualizações e melhorias na linguagem.
   - icon: 🚀
     title: Plugar e Brincar
     details: É só entrar e programar, não precisar configurar nada.

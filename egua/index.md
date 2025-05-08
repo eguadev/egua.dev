@@ -9,7 +9,7 @@ Além disso, a IDEgua (interface online de prgramação da linguagem) oferece um
 ## Uso online
 A linguagem Egua pode ser executada de maneira online via navegador.
 
-<a href="https://egua.dev/idegua" target="_blank">
+<a href="https://programar.egua.dev" target="_blank">
     <img src="https://img.shields.io/badge/Égua-Online-red?style=for-the-badge&logo=appveyor">
 </a>
 
