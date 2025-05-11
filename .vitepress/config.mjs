@@ -66,11 +66,11 @@ export default defineConfig({
         items: [
           { text: 'Introdução', link: '/egua/' },
           { text: 'Variáveis', link: '/egua/variaveis' },
-          { text: 'Tipos de Dados', link: '/egua/tipos_dados' },
+          { text: 'Tipos de Dados', link: '/egua/tipos-dados' },
           { text: 'Operadores', link: '/egua/operadores' },
-          { text: 'Fluxo de Controle', link: '/egua/fluxo_controle' },
+          { text: 'Fluxo de Controle', link: '/egua/fluxo-controle' },
           { text: 'Funções', link: '/egua/funcao' },
-          { text: 'Funções Integradas', link: '/egua/funcoes_integradas' },
+          { text: 'Funções Integradas', link: '/egua/funcoes-integradas' },
           { text: 'Bibliotecas', link: '/egua/bibliotecas' },
           { text: 'Classes', link: '/egua/classes' }
         ]
@@ -81,14 +81,16 @@ export default defineConfig({
       label: 'Nesta página'
     },
 
+    returnToTopLabel: 'Voltar ao Topo',
+
     docFooter: {
       prev: 'Página Anterior',
       next: 'Próxima Página'
     },
 
     footer: {
-      message: 'Lançado sob licença MIT',
-      copyright: `Direitos reservados © 2020-${new Date().getFullYear()} Lucas Pompeu`
+      message: 'Feito com Açaí em Belém do Pará',
+      copyright: `Direitos reservados © 2020-${new Date().getFullYear()}`
     },
 
     notFound: {
